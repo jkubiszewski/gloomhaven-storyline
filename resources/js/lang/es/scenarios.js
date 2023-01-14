@@ -172,7 +172,7 @@ export default {
         "name": "Almenas de Gloomhaven A",
         "rewards": [
             "30 de oro para cada personaje",
-            "5 de reputación",
+            "-5 de reputación",
             "-2 de prosperidad",
             "Añade el Evento de ciudad 79 al mazo"
         ]

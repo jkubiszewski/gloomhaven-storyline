@@ -172,7 +172,7 @@ export default {
         "name": "Les Remparts de Havrenuit A",
         "rewards": [
             "30 gold each",
-            "5 reputation",
+            "-5 reputation",
             "-2 prosperity",
             "Add City Event 79 to the deck"
         ]
@@ -548,7 +548,7 @@ export default {
         ]
     },
     "gh-204": {
-        "name": " Corrupted Laboratory",
+        "name": "Corrupted Laboratory",
         "rewards": [
             "“Volatile Elixir” (Item 136)"
         ]

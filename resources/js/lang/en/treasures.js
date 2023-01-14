@@ -272,8 +272,8 @@ export default {
     "fc-91": {
         "name": "Gain 30 gold and Party Achievement: “Opportunists” Add City Event 84 to the deck",
     },
-    "fc-93": {
-        "name": "Gain “Scroll of Haste” (Item 159)",
+    "fc-92": {
+        "name": "Gain “Halberd” (Item 068)",
     },
     "fc-93": {
         "name": "“Scroll of Haste” (Item 159)",

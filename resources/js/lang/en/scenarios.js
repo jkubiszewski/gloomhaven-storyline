@@ -172,7 +172,7 @@ export default {
         "name": "Gloomhaven Battlements A",
         "rewards": [
             "30 gold each",
-            "5 reputation",
+            "-5 reputation",
             "-2 prosperity",
             "Add City Event 79 to the deck"
         ]
@@ -548,7 +548,7 @@ export default {
         ]
     },
     "gh-204": {
-        "name": " Corrupted Laboratory",
+        "name": "Corrupted Laboratory",
         "rewards": [
             "“Volatile Elixir” (Item 136)"
         ]
@@ -693,7 +693,7 @@ export default {
     "fc-100": {
         "name": "Shifting Gears",
         "rewards": [
-            "Choose to gain one of the following sets: “Telescopic Lens” (Item 059) and “Ancient Drill” (Item 112), OR “Curious Gear” (Item 125) and “Remote Spider” (Item 126)"
+            "Choose to gain one of the following: “Telescopic Lens” (Item 059), “Ancient Drill” (Item 112), “Curious Gear” (Item 125) OR “Remote Spider” (Item 126)"
         ],
     },
     "fc-101": {
